@@ -1,4 +1,4 @@
-import { useGlobalContext } from "../context/context";
+import { useGlobalContext } from "@/context/context";
 
 const Modal = () => {
 
