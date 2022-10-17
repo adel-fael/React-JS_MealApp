@@ -10,7 +10,7 @@ const Meals = () => {
   if (loading) {
     return (
       <section className="section">
-        <h4>Loading ...</h4>
+        <h4>Loading 123</h4>
       </section>
     )
   }
